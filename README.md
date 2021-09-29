@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Jong In Park
 - 👀 I’m interested in Cosmos, Astrophysics, Machine Learning
 - 🌱 I’m currently learning Basic Machine Learning
-- 💞️ I’m looking to collaborate on ...
-
+- 💞️ I’m currently participating osamhackerton 2021, AI_NoYoutube_60
 
 - 📫 How to reach me ...
 
