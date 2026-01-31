@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:2d1b69,50:1a0a2e,100:16213e&height=200&section=header&text=Jong%20In%20Park&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:2d1b69,50:1a0a2e,100:16213e&height=200&section=header&text=Jong-In%20Park&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35)
 
 ### 🚀 Astrophysicist | Galaxy Evolution Researcher
 
